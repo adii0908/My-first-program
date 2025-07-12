@@ -13,4 +13,4 @@
         This website  is made by  Aditya Chaturvedi ..
     </marquee>
 </body>
-</html>https://adii0908.github.io/Imagebyadii/
+</html>
