@@ -9,7 +9,7 @@
     
     <img src="https://www.w3schools.com/html/img_girl.jpg" alt="Sample Image" width="300">
     
-    <marquee bgcolor=pink behavior="scroll" direction="left" scrollamount="5">
+    <marquee behavior="scroll" direction="left" scrollamount="5">
         This website  is made by  Aditi Chaturvedi ..
     </marquee>
 </body>
